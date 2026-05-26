@@ -1,4 +1,4 @@
-﻿`using System;
+﻿using System;
 
 public class Produk
 {
@@ -93,7 +93,6 @@ class Program
         Console.WriteLine($"Total Bayar : Rp {totalSemua:N0}");
         Console.WriteLine("==============================");
 
-        // Menahan layar console agar hasil struk bisa dibaca sebelum program ditutup.
         Console.ReadLine();
     }
 }
